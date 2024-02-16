@@ -8,6 +8,8 @@ public class U5S2G5Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(U5S2G5Application.class, args);
+
+
 	}
 
 }
